@@ -21,6 +21,6 @@
 - Linux : locations of the file
 
 # Contact :
-t.me/LearnExploit
+- t.me/LearnExploit
 
 
