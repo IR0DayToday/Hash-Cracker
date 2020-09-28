@@ -13,12 +13,12 @@ This program checks the following Hash algorithms :
 Use 'Help or help' command to see informatins
 
 # Requirements :
-click
-hashlib
+- click
+- hashlib
 
 # Run :
-Windows : dubble click on the file
-Linux : locations of the file
+- Windows : dubble click on the file
+- Linux : locations of the file
 
 # Contact :
 t.me/LearnExploit
